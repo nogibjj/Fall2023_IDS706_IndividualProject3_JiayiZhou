@@ -46,5 +46,5 @@ The code does: ETL-Query: [E] Extract a dataset from URL, [T] Transform, and [L]
 2. Format code `make format`
 3. Lint code `make lint`
 
-## Sample Viz from Query: 
-[Sample Visualization](Total Matches Played by Team.png)
+## Sample Viz from Query:
+[[Sample Visualization](https://github.com/nogibjj/Fall2023_IDS706_IndividualProject3_JiayiZhou/blob/main/Total%20Matches%20Played%20by%20Team.png)

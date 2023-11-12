@@ -47,4 +47,4 @@ The code does: ETL-Query: [E] Extract a dataset from URL, [T] Transform, and [L]
 3. Lint code `make lint`
 
 ## Sample Viz from Query:
-[[Sample Visualization](https://github.com/nogibjj/Fall2023_IDS706_IndividualProject3_JiayiZhou/blob/main/Total%20Matches%20Played%20by%20Team.png)
+[[[Sample Visualization](https://github.com/nogibjj/Fall2023_IDS706_IndividualProject3_JiayiZhou/blob/main/Total%20Matches%20Played%20by%20Team.png)](https://github.com/nogibjj/Fall2023_IDS706_IndividualProject3_JiayiZhou/blob/main/Total%20Matches%20Played%20by%20Team.png)https://github.com/nogibjj/Fall2023_IDS706_IndividualProject3_JiayiZhou/blob/main/Total%20Matches%20Played%20by%20Team.png

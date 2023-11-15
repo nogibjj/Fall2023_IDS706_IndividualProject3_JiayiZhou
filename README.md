@@ -4,7 +4,7 @@
 This is for class data engineering individual project 3: Databricks ETL (Extract Transform Load) Pipeline. It uses Databricks notebook that performs ETL (Extract, Transform, Load) operations, checked into the repository. It utilizes Delta Lake for data storage, Spark SQL for data transformations, and automated trigger to initiate the pipeline.
 
 ### Video
-[YouTube]()
+[YouTube](https://youtu.be/C-rZvuf1OUQ)
 
 ### Functionality
 The code does: ETL-Query: [E] Extract a dataset from URL, [T] Transform, and [L] Load into Delta Lake:
